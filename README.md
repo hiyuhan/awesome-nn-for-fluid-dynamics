@@ -1,1 +1,1 @@
-# awesome-nn-for-fluid-dynamics
+# Awesome neutral networks for Fluid Dynamics
