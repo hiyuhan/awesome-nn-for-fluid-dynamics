@@ -1,1 +1,1 @@
-# Awesome neutral networks for Fluid Dynamics
+# Awesome neural networks for Fluid Dynamics
